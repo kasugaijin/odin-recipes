@@ -1,0 +1,29 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(76, 47, 236);
+    font-size: 20px;
+    background-color: rgb(191, 191, 240);
+}
+
+h1{
+    font-size: 45px;
+    box-shadow: rgb(232, 100, 237) 4px 4px;
+}
+
+img{
+    box-shadow: rgb(232, 100, 237) 10px 5px;
+}
+
+.steps{
+    font-weight: bold;
+}
+
+.lol{
+    color: rgb(220, 46, 226);
+    font-weight: bold;
+}
+
+.whut{
+    color: rgb(38, 1, 201);
+    font-weight: bold;
+}
